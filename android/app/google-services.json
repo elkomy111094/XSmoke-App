@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "176156369692",
+    "project_id": "xsmoke-48332",
+    "storage_bucket": "xsmoke-48332.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176156369692:android:626446df6bee08104690d9",
+        "android_client_info": {
+          "package_name": "com.example.xsmoke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176156369692-03ihqd4j11tjkt4gnc2r1c9eqnd9trd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xsmoke",
+            "certificate_hash": "bbbff734b2f60df05f638df3afd70178b7384b9d"
+          }
+        },
+        {
+          "client_id": "176156369692-lmtk8tvk8d2dq1cvlcn2dsdgkusne689.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFrlZaGOsQG3Su59k1yb891TFTSA4r-hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176156369692-lmtk8tvk8d2dq1cvlcn2dsdgkusne689.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
